@@ -1,5 +1,12 @@
-# anomaly_detection_course_work
+# Simple anomaly detector via PySpark
 
-Main module – anomaly_detection/main.py
+**Tiny description:**
 
-Need to export: SPARK_MASTER, DATA_DIR, EDGES_TABLE_NAME
+  This program contains algorithm of distributed detection anomalies in such user identifiers as IDFA, GAID, email, login in map-reduce paradigm.
+
+
+**How to run:**
+
+  Main module – anomaly_detection/main.py
+  
+  Need to export: SPARK_MASTER, DATA_DIR, EDGES_TABLE_NAME

@@ -4,6 +4,8 @@
 
   This program contains algorithm of distributed anomaly detection in such user identifiers as IDFA (iOS advertising ID gererated as uuid), GAID (Android advertising ID gererated as uuid), email, and login in map-reduce paradigm.
 
+**Idea:**
+Generate factors, based only on representation of identifier and number of its connections with other identifiers.
 
 **How to run:**
 
